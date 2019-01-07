@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Bootstraptemplate.iml" filepath="$PROJECT_DIR$/.idea/Bootstraptemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Valutaconverter.iml" filepath="$PROJECT_DIR$/.idea/Valutaconverter.iml" />
     </modules>
   </component>
 </project>
